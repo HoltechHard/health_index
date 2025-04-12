@@ -1,2 +1,1 @@
-"# HEALTH INDEX CALCULATION" 
-"# Health Index Calculation" 
+# HEALTH INDEX CALCULATION 
