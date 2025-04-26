@@ -3,3 +3,6 @@ pandas
 matplotlib
 seaborn
 openpyxl
+scipy
+tensorflow
+scikit-learn == 1.4.0
